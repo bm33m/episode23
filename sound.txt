@@ -1,0 +1,29 @@
+# soundModel v001.
+# sound.txt
+# Theoretical values.
+# magnitude, sample, model, name, range, frequency, altitude, amplitude
+10, duu duu du du du, bird, ijuba, 100, 20, 10, 100
+10, ki ki li ki gi, bird, iqhude, 50, 10, 10, 100
+10, ge ke ge ke ge, bird, inkukhu, 25, 5, 10, 100
+10, ku ku lu ku ki, bird, igalikuni, 20, 5, 10, 100
+10, kwe kwe kwe bird, ikewu, 10, 5, 10, 100
+10, gwa gwa gwa bird, igwababa, 200, 10, 10, 100
+1, bhi zi bhi zi bee, inyosi, 1, 20, 1, 100
+1000, su tu du ndu du qwe ki, thunder, orage, 1000, 20, 1000,100
+8, wu wa wu wa, baby, umntwana, 10, 10, 8, 100
+5, a, baby, ingane, 10, 5, 5, 100
+4, b, baby, ingane, 10, 3, 4, 100
+6, ba, baby, ingane, 10, 4, 6, 100
+5, be, baby, ingane, 10, 4, 5, 100
+5, bi, baby, ingane, 10, 4, 5, 100
+5, bo, baby, ingane, 10, 4, 5, 100
+7, bu, baby, ingane, 10, 5, 7, 100
+0, mm, baby, ingane, 10, 0, 0, 100
+8, ne ne ne ne ne, baby, ingane, 10, 10, 8, 100
+3, z, baby, ingane, 10, 2, 3, 100
+3, za, baby, ingane, 10, 3, 3, 100
+3, ze, baby, ingane, 10, 3, 3, 100
+3, zi, baby, ingane, 10, 4, 3, 100
+4, zo, baby, ingane, 10, 5, 4, 100
+9, zu, baby, ingane, 10, 10, 9, 100
+3, Natural languages are fascinating., MLmodel, AIagent, 3, 3, 3, 100
